@@ -3,3 +3,4 @@ numpy==1.26.4
 streamlit==1.38.0
 streamlit-chat==0.1.1
 pandas
+opencv-python
