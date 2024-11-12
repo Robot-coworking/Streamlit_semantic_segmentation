@@ -1,0 +1,5 @@
+# Ignore all files and folders by default
+*
+
+# Allow the sem_seg_streamlit.py file
+!sem_seg_streamlit.py
