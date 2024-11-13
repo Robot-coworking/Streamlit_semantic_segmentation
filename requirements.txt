@@ -1,8 +1,5 @@
-streamlit==1.38.0
-streamlit-authenticator==0.4.1
-pandas==2.1.4
+streamlit
+pandas
 opencv-python-headless
-numpy==1.26.4
-albumentations==1.4.14
-libgl1-mesa-glx
-libglib2.0-0
+numpy
+albumentations
